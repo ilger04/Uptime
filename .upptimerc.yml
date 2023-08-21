@@ -19,15 +19,15 @@ status-website:
   introMessage: Status page with **real-time** data
 
   navbar:
-    - title: Page1
+    - title: P1
       href: https://ilger-supporto.github.io/Uptime/
-    - title: Page2
+    - title: P2
       href: https://ilger01.github.io/Uptime/
-    - title: Page3
+    - title: P3
       href: https://ilger02.github.io/Uptime/
-    - title: Page4
+    - title: P4
       href: https://ilger03.github.io/Uptime/
-    - tile: Page5
+    - tile: P5
       href: /Uptime
 
 # Upptime also supports notifications, assigning issues, and more
