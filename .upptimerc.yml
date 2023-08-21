@@ -11,23 +11,23 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  name: P1
+  name: 
   logoUrl: https://www.ilger.com/wp-content/uploads/2021/11/ILGER-logo.png
   baseUrl: /Uptime
   icon: https://www.ilger.com/wp-content/uploads/2022/03/ilger-logo-favicon.png
-  introTitle: "Servers Uptime"
+  introTitle: "Page 5"
   introMessage: Status page with **real-time** data
 
   navbar:
      - title: Page1
-       href: /Uptime
+       href: https://ilger-supporto.github.io/Uptime/
      - title: Page2
        href: https://ilger01.github.io/Uptime/
      - title: Page3
        href: https://ilger02.github.io/Uptime/
      - title: Page4
        href: https://ilger03.github.io/Uptime/
-     - title: P5
+     - title: Page5
        href: /Uptime
 
 # Upptime also supports notifications, assigning issues, and more
