@@ -3,8 +3,64 @@ owner: ilger04 # Your GitHub organization or username, where this repository liv
 repo: Uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+
+  - name: OPENSIPA3
+    url: $OPENSIPA3
+
+  - name: OPENSIPA1
+    url: $OPENSIPA1
+
+  - name: CENTROATI2
+    url: $CENTROATI2
+
+  - name: HOTELTURIST2_ILGER
+    url: $HOTELTURIST2_ILGER
+
+  - name: NUMBER1_WEB3
+    url: $NUMBER1_WEB3
+
+  - name: ATOMINFORMATICA4
+    url: $ATOMINFORMATICA4
+
+  - name: SMTP7_ILGER
+    check: "tcp-ping"
+    url: $SMTP7_ILGER
+    port: 25
+
+  - name: SMTP8_ILGER
+    check: "tcp-ping"
+    url: $SMTP8_ILGER
+    port: 25
+
+  - name: SMTP9_ILGER
+    check: "tcp-ping"
+    url: $SMTP9_ILGER
+    port: 25
+
+  - name: SMTP10_ILGER
+    check: "tcp-ping"
+    url: $SMTP10_ILGER
+    port: 25
+
+  - name: SMTP11_ILGER
+    check: "tcp-ping"
+    url: $SMTP11_ILGER
+    port: 25
+
+  - name: VCLOUD_ILGER
+    url: $VCLOUD_ILGER
+
+  - name: SOLUZIONE-VDA2
+    url: $SOLUZIONE-VDA2
+
+  - name: MACPETS01
+    url: $MACPETS01
+
+  - name: AAASERVICE01
+    url: $AAASERVICE01
+
+  - name: CLOUDOFFICE02
+    url: $CLOUDOFFICE02
 
 
 status-website:
