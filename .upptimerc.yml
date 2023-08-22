@@ -82,14 +82,14 @@ sites:
     url: $CLD_SCN9
     port: 25
 
-  - name: CLD_SCN10
+  - name: CLD_SCN_10
     check: "tcp-ping"
-    url: $CLD_SCN10
+    url: $CLD_SCN_10
     port: 25
 
-  - name: CLD_SCN11
+  - name: CLD_SCN_11
     check: "tcp-ping"
-    url: $CLD_SCN11
+    url: $CLD_SCN_11
     port: 25
 
 status-website:
