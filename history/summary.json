@@ -221,11 +221,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "soluzione-vda-2",
     "status": "up",
-    "uptime": "6.15%",
-    "uptimeDay": "6.15%",
-    "uptimeWeek": "6.15%",
-    "uptimeMonth": "6.15%",
-    "uptimeYear": "6.15%",
+    "uptime": "6.18%",
+    "uptimeDay": "6.18%",
+    "uptimeWeek": "6.18%",
+    "uptimeMonth": "6.18%",
+    "uptimeYear": "6.18%",
     "time": 1301,
     "timeDay": 1301,
     "timeWeek": 1301,
@@ -386,18 +386,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cld-scn-11",
     "status": "up",
-    "uptime": "65.24%",
-    "uptimeDay": "65.24%",
-    "uptimeWeek": "65.24%",
-    "uptimeMonth": "65.24%",
-    "uptimeYear": "65.24%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 252,
     "timeDay": 252,
     "timeWeek": 252,
     "timeMonth": 252,
     "timeYear": 252,
-    "dailyMinutesDown": {
-      "2023-08-22": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
