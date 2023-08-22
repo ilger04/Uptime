@@ -50,8 +50,8 @@ sites:
   - name: VCLOUD_ILGER
     url: $VCLOUD_ILGER
 
-  - name: SOLUZIONE-VDA2
-    url: $SOLUZIONE-VDA2
+  - name: SOLUZIONE_VDA2
+    url: $SOLUZIONE_VDA2
 
   - name: MACPETS01
     url: $MACPETS01
