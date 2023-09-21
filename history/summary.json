@@ -62,19 +62,19 @@
     "url": "$HOTELTURIST2_ILGER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hotelturist-2-ilger",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1175,
-    "timeDay": 1319,
-    "timeWeek": 1247,
-    "timeMonth": 1175,
-    "timeYear": 1175,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1169,
+    "timeDay": 1137,
+    "timeWeek": 1211,
+    "timeMonth": 1169,
+    "timeYear": 1169,
     "dailyMinutesDown": {
-      "2023-09-21": 0
+      "2023-09-21": 17
     }
   },
   {
