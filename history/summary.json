@@ -62,9 +62,9 @@
     "url": "$HOTELTURIST2_ILGER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hotelturist-2-ilger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +73,9 @@
     "timeWeek": 1247,
     "timeMonth": 1175,
     "timeYear": 1175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-21": 0
+    }
   },
   {
     "name": "NUMBER1_WEB3",
@@ -228,11 +230,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "soluzione-vda-2",
     "status": "up",
-    "uptime": "97.45%",
+    "uptime": "97.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.45%",
-    "uptimeYear": "97.45%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "97.50%",
     "time": 1072,
     "timeDay": 1216,
     "timeWeek": 1044,
