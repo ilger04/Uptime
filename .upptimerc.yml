@@ -116,8 +116,8 @@ status-website:
        href: /Uptime
      - title: Page6
        href: https://ilger05.github.io/Uptime/
-    - title: Page7
-      href: https://ilger06.github.io/Uptime/
+     - title: Page7
+       href: https://ilger06.github.io/Uptime/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
