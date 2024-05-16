@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1650,
     "dailyMinutesDown": {
-      "2024-05-16": 714,
+      "2024-05-16": 734,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
@@ -173,7 +173,7 @@
     "timeMonth": 0,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2024-05-16": 714,
+      "2024-05-16": 734,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
@@ -548,19 +548,19 @@
     "url": "$CLD_SCN2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cld-scn-2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 170,
-    "timeDay": 123,
-    "timeWeek": 114,
-    "timeMonth": 124,
+    "timeDay": 144,
+    "timeWeek": 120,
+    "timeMonth": 125,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2024-05-16": 20
+      "2024-05-16": 39
     }
   },
   {
